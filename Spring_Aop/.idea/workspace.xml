@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f2fec51-7cb9-45f9-8660-ca38a085b22f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gAs52AyFMZyfEEctw5MVTOLThD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring_JDBC" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\IDLE_Project" />
+      <recent name="D:\IntelliJ IDEA\IDLE_Project\Spring_Aop\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test">
+    <configuration name="JDKProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynatic_Daili.JDKProxy" />
+      <module name="Spring_Aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dynatic_Daili.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AopDemo.Test" />
+      <module name="Spring_Aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AopDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_Aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AopDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AopDemo" />
+      <option name="MAIN_CLASS_NAME" value="AopDemo.Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.JDKProxy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f2fec51-7cb9-45f9-8660-ca38a085b22f" name="Default Changelist" comment="" />
+      <created>1597568544911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597568544911</updated>
+      <workItem from="1597568547189" duration="8383000" />
+      <workItem from="1597640541234" duration="1728000" />
+      <workItem from="1597992139026" duration="2000" />
+      <workItem from="1597992147756" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="296" y="7" key="#Project_Structure" timestamp="1597641609018">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="296" y="7" key="#Project_Structure/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597641609018" />
+    <state x="494" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597570768267">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="494" y="215" key="#com.intellij.fileTypes.FileTypeChooser/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597570768267" />
+    <state x="565" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1597582548195">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="565" y="73" key="#com.intellij.ide.util.MemberChooser/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597582548195" />
+    <state x="530" y="53" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1597571276246">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="530" y="53" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597571276246" />
+    <state x="534" y="129" key="FileChooserDialogImpl" timestamp="1597641675229">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="534" y="129" key="FileChooserDialogImpl/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597641675229" />
+    <state width="1413" height="197" key="GridCell.Tab.0.bottom" timestamp="1597587645802">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state width="1250" height="98" key="GridCell.Tab.0.bottom/70.0.1466.864/-1366.51.1303.768@-1366.51.1303.768" timestamp="1597584413499" />
+    <state width="1413" height="197" key="GridCell.Tab.0.bottom/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597587645802" />
+    <state width="1413" height="197" key="GridCell.Tab.0.center" timestamp="1597587645801">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state width="1250" height="98" key="GridCell.Tab.0.center/70.0.1466.864/-1366.51.1303.768@-1366.51.1303.768" timestamp="1597584413498" />
+    <state width="1413" height="197" key="GridCell.Tab.0.center/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597587645801" />
+    <state width="1413" height="197" key="GridCell.Tab.0.left" timestamp="1597587645801">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state width="1250" height="98" key="GridCell.Tab.0.left/70.0.1466.864/-1366.51.1303.768@-1366.51.1303.768" timestamp="1597584413498" />
+    <state width="1413" height="197" key="GridCell.Tab.0.left/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597587645801" />
+    <state width="1413" height="197" key="GridCell.Tab.0.right" timestamp="1597587645801">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state width="1250" height="98" key="GridCell.Tab.0.right/70.0.1466.864/-1366.51.1303.768@-1366.51.1303.768" timestamp="1597584413499" />
+    <state width="1413" height="197" key="GridCell.Tab.0.right/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597587645801" />
+    <state x="156" y="0" key="SettingsEditor" timestamp="1597584125818">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="156" y="0" key="SettingsEditor/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597584125818" />
+    <state x="70" y="0" key="new project wizard" timestamp="1597568568962">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="70" y="0" key="new project wizard/70.0.1466.864/-1366.51.1303.768@70.0.1466.864" timestamp="1597568568962" />
+  </component>
+</project>
